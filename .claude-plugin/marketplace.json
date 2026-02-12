@@ -1,0 +1,22 @@
+{
+  "name": "travelintel-plugins",
+  "owner": {
+    "name": "Michael Kennedy"
+  },
+  "metadata": {
+    "description": "Travel intelligence plugins for Claude — flight search, route discovery, waterfall trip planning, and knowledge base"
+  },
+  "plugins": [
+    {
+      "name": "travelintel",
+      "source": "./travelintel",
+      "description": "58 MCP tools for flight search, route discovery, waterfall trip planning, reliability analysis, and auto-learning knowledge base",
+      "version": "2.0.0",
+      "author": {
+        "name": "Michael Kennedy"
+      },
+      "keywords": ["travel", "flights", "aviation", "trip-planning", "waterfall"],
+      "category": "travel"
+    }
+  ]
+}

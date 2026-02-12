@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "travelintel": {
+      "command": "/opt/homebrew/bin/bun",
+      "args": [
+        "run",
+        "/Users/michaelkennedy/travel/app/src/mcp-server/index.ts"
+      ],
+      "cwd": "/Users/michaelkennedy/travel/app",
+      "env": {
+        "BUN_ENV": "production"
+      }
+    }
+  }
+}
