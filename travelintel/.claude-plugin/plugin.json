@@ -1,7 +1,7 @@
 {
   "name": "travelintel",
-  "version": "2.0.0",
-  "description": "Travel intelligence — 58 MCP tools for flight search, route discovery, waterfall trip planning, reliability analysis, and auto-learning knowledge base",
+  "version": "3.0.0",
+  "description": "Travel intelligence — 58 MCP tools for flight search, route discovery, waterfall trip planning, reliability analysis, HTML itinerary generation, and auto-learning knowledge base",
   "author": {
     "name": "Michael Kennedy"
   }

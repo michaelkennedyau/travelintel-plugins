@@ -10,8 +10,8 @@
     {
       "name": "travelintel",
       "source": "./travelintel",
-      "description": "58 MCP tools for flight search, route discovery, waterfall trip planning, reliability analysis, and auto-learning knowledge base",
-      "version": "2.0.0",
+      "description": "58 MCP tools for flight search, route discovery, waterfall trip planning, reliability analysis, HTML itinerary generation, and auto-learning knowledge base",
+      "version": "3.0.0",
       "author": {
         "name": "Michael Kennedy"
       },
